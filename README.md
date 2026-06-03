@@ -2,7 +2,7 @@
 
 在 GitHub 上申请免费的 VPS。
 
-> 图文教程：https://mp.weixin.qq.com/s/vnA2AXD5zXiXGJNPdNH0BA
+> 图文教程：[https://mp.weixin.qq.com/s/vnA2AXD5zXiXGJNPdNH0BA](https://mp.weixin.qq.com/s/f3FhNMmRMHuximMUuooZNw)
 
 ## 创建示例
 
